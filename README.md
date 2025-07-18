@@ -43,7 +43,7 @@
 
 Fork 这个仓库到您的 GitHub 账户。
 ```
-https://github.com/aigem/CFr2-webdav
+https://github.com/arouraus/CF-r2-webdav
 ```
 
 ### 步骤 3: 配置 GitHub Secrets
@@ -79,7 +79,7 @@ https://github.com/aigem/CFr2-webdav
 
 1. 克隆仓库到本地：
    ```bash
-   git clone https://github.com/aigem/CFr2-webdav.git
+   git clone https://github.com/arouraus/CF-r2-webdav.git
    cd cf-r2-webdav
    ```
 
